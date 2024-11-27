@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/nissan-fr/:/",
-    "/content/nissan-fr/configuration:/.helix/config.json",
-    "/content/nissan-fr/metadata:/metadata.json"
+    "/content/eds-fr/:/",
+    "/content/eds-fr/configuration:/.helix/config.json",
+    "/content/eds-fr/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/nissan-fr/"
+    "/content/eds-fr/"
   ]
 }
